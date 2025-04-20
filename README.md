@@ -3,7 +3,8 @@
 Objective:
 Create a command-line Personal Library Manager that allows users to manage their book collection. The program should let users add, remove, and search for books. Each book will be stored as a dictionary with details like title, author, publication year, genre, and read status. The program should also include a menu system, basic statistics, and optional file handling for saving and loading the library.
 
-Requirements
+Requirements:
+
 Core Features
 Book Details: Each book should have the following attributes:
 
@@ -34,11 +35,13 @@ Total number of books in the library.
 Percentage of books that have been read.
 Exit: Exit the program.
 
-Optional Challenge (File Handling)
+Optional Challenge (File Handling):
+
 Save Library to a File: Save the library data to a file (e.g., library.txt) when the program exits.
 Load Library from a File: Load the library data from the file when the program starts.
 Sample Output
 Menu
+
 Welcome to your Personal Library Manager!  
 1. Add a book  
 2. Remove a book  
